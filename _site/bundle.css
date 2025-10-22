@@ -1,0 +1,24 @@
+
+body {
+  background-color: #16161e;
+  color: #c0caf5;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-transform: lowercase;
+  font-family: "Helvetica Neue", helvetica, sans-serif;
+}
+
+p {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+a {
+  text-decoration: none;
+  color: #7dcfff;
+}
+
+a:visited {
+  color: #bb9af7; 
+}
